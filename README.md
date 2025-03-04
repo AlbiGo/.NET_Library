@@ -20,8 +20,9 @@ The project is still on its initial steps so there is a lot of space for improve
 Please respect the contributing rules such as :
 
 1 - Always use branching and PRs.
-2 - Use descriptive branch naming. (username/(feature/bug/fix/new)/branch-name-unique-code
-3 - Be professional on PR comments.
+2 - All development must start from dev branch.
+3 - Use descriptive branch naming. (username/(feature/bug/fix/new)/branch-name-unique-code
+4 - Be professional on PR comments.
 
 Getting Started
 To get started with this project:
